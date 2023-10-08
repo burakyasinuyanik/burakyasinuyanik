@@ -22,7 +22,7 @@
     </tr>
   </table>
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
- <img alt="Buraks's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=burakyasinuyanik&theme=react&hide_border=true" />
+  <img alt="Miray's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MirayDurgun&theme=react&hide_border=true" />
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
