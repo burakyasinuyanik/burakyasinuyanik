@@ -1,6 +1,6 @@
-# Burak Yasin Uyanık
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
+# Burak Yasin Uyanık
 <div> 
  I am a Junior .Net Developer, and I am someone who focuses on constantly improving my skills in software development. 
  Believing in self-improvement is of great importance to me. I make an effort every day to learn new things and contribute to my projects. 
